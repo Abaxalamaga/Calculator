@@ -4,6 +4,10 @@ import javax.swing.*;
 
 public class CalculatorEngine implements ActionListener{
 	
+	String st = "St";
+	
+	Str
+	
 	Calculator parent; //Calculator link
 	
 	char selectedAction = ' '; // +, -, /, C , or *
